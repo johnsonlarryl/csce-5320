@@ -1,0 +1,21 @@
+name: csce-5320-semester-project
+
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - fastparquet
+  - jupyter
+  - matplotlib
+  - pandas
+  - psycopg2
+  - pydot
+  - pyarrow
+  - python=3.9.5
+  - pytest
+  - pytorch
+  - scikit-learn
+  - seaborn
+  - sqlalchemy
+  - torchvision
