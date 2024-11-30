@@ -8,7 +8,9 @@ dependencies:
   - fastparquet
   - jupyter
   - matplotlib
+  - mplcursors
   - pandas
+  - plotly
   - psycopg2
   - pydot
   - pyarrow
